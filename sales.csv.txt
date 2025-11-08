@@ -1,0 +1,11 @@
+﻿Order_ID,Product,Region,Sales,Month
+1,Laptop,South,55000,January
+2,Mobile,North,30000,January
+3,Laptop,West,62000,February
+4,Headphones,South,8000,February
+5,Mobile,East,29000,March
+6,Laptop,North,58000,March
+7,Tablet,East,26000,April
+8,Mobile,South,32000,April
+9,Laptop,West,61000,May
+10,Headphones,North,10000,May
