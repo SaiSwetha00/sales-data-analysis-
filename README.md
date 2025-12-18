@@ -5,3 +5,5 @@
 ├── sales_analysis.ipynb     # Python code  
 ├── sales_graph.png          # Output graph  
 └── README.md                # Documentation
+## 👤 Author
+SAI SWETHA
